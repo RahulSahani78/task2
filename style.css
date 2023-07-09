@@ -1,0 +1,143 @@
+body{background-image: url(https://wallpaperaccess.com/full/5651990.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-color: #052e68;
+    
+    }
+    header {margin-top: -10px;
+      margin-left: -8px;
+      margin-right: -7px;
+    background-color: #181f21;
+    color: #fff;
+    padding: 20px;
+    }
+    
+    h1 {
+    margin: 0;
+    }
+    nav{margin-top: 0px;
+        text-align: right;
+        margin-top: -30px; 
+    }
+    nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 10px; 
+    }
+    
+    nav li {
+    display: inline-block;
+    margin-right: 20px;  
+    }
+    
+    nav a {
+    color: #fff;
+    text-decoration: none;
+    gap: 10px;
+    }
+    nav ul li :hover{color: #a5120d;
+    text-decoration: underline;}
+    nav ul li{font-size: 25px;}
+    .my{margin: 10px;}
+    .personal{font-size: 30px;
+    text-align: center;}
+    .skill{width:649px ;
+    height: 456px;
+    margin-left: 449px;
+    }
+    .skill h1{text-align: left;
+    font-size: 66px;
+    color: black;}
+    .me{width:649px ;
+    height: 456px;
+    margin-left: 0px;
+    text-align: center;
+    margin-top: 363px; 
+    display: inline-block;
+    background-color: #07405a;
+    }
+    .abt{width:649px ;
+    height: 456px;
+    margin-left: 0px;
+    text-align: center;
+    margin-top: 363px;
+    font-size: 24px;
+    }
+    .abt h3{text-shadow: 2px 2px rgb(127, 17, 237);
+    font-size: 39px;
+    margin-top: 18px;}
+    .abt p{margin-top: -38px;
+    color: #fff;}
+    .flex{display: flex;
+    gap: 42px;}
+    #footer{
+    height: 0px;
+    background-color: #181f21 ;
+    margin: -8px;
+    margin-top: 0px;}
+    .skl{font-size: 50px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+    font-weight: bolder;
+    }
+    #img{ margin: 8px;
+        width: 655px;
+        height: 450px;
+        text-align: left;
+        margin-top: -64px;
+      margin-left: 1px;
+      background-color:#052e68;
+     }
+    
+    footer {
+    background-color:#282e3a;;
+    color: red;
+    padding: 80px;
+    text-align: center;
+    }
+    
+    footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    }
+    
+    footer li {
+    display: inline-block;
+    margin-right: 20px;
+    }
+    
+    footer a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 23px;
+    margin-top: 1px;
+    }
+    
+    footer p {
+    margin: -1px; 
+    font-size: 23px;
+    } 
+    .flex{display: flex;}
+    #name{padding: 5px;
+    border-radius: 9px;
+    font-weight: bold;
+    font-size: 20px;}
+    #email{padding: 5px;
+    border-radius: 9px;
+    font-weight: bold;}
+    #message{padding: 5px;
+    border-radius: 9px;
+    font-weight: bold;}
+    .btn{padding: 5px;
+    border-radius: 9px;
+    font-weight: bold;}
+    .btn:hover{background-color: #900505;}
+    .contact{margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 21px;
+    color: azure;}
+    .abt p a{color: red;
+    text-decoration: none;}
